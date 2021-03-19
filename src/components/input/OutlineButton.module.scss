@@ -1,0 +1,12 @@
+@import '../../styles/variables';
+
+.button {
+  border: 1px $medium-grey solid;
+  color: $medium-grey;
+  background-color: $white;
+  font-size: 20px;
+  text-transform: uppercase;
+  border-radius: 100px;
+  font-weight: bold;
+  padding: 12px 12px;
+}

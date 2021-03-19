@@ -1,0 +1,16 @@
+/* stylelint-disable selector-pseudo-class-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+
+.header {
+  .T,
+  .R,
+  .E,
+  .N,
+  .D {
+    fill: #292c49;
+  }
+
+  .Z {
+    fill: #ff007a;
+  }
+}
